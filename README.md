@@ -1,4 +1,4 @@
-# 👁️ Eye Stress Detection Platform (AI + MERN)
+# 👁️ Eye Stress Detector(AI + MERN)
 
 AI-powered full-stack platform that detects digital eye stress from images/videos using deep learning and automatically sends report emails with visualization.
 
